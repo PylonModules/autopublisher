@@ -11,7 +11,7 @@
 ```ts
 const autopublisher = {
   channels: ['channel 1', 'channel 1'],
-}; export { autorole };
+}; export { autopublisher };
 ```
 > `channels` is an array of the channel IDs you want messages to be published in. IDs must be news channels, or the module will error.
 
